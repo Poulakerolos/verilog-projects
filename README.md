@@ -1,2 +1,2 @@
 # verilog-projects
-Verilog HDL implementations of a synchronous FIFO, 4-bit ALU, and FSM designs. Developed during IEEE Digital Design Workshop.
+Implemented a 4-bit ALU, a 64-bit arithmetic shift register, and Mealy/Moore FSM sequence detectors in Verilog HDL as part of an IEEE Digital Design Workshop. Verified designs using Questa/ModelSim simulation.
